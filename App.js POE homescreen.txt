@@ -1,0 +1,22 @@
+home screen - App.js
+		
+	App.js - handle navigation bet.  screens
+	HomeScreen
+		-last book read
+		-total pages in the collection
+		-average pages in the collection
+	EnterBookScreen
+		-enter the details of the book(title, author,pages,genre)
+		-validate
+		-save
+	HistoryScreen
+		-display the details of the last 3 books in the collection
+	GenreScreen
+		-predefined genre list that the user can choose from
+
+data installed memory -  dont need to be installed permanantly and cannot be hardcoded 
+user input must be added in the add book screen and stored.. the stored input must be displayed on the home screen
+
+only last book details must be stored for part 2 POE
+total can be stored in a variable.. number of books store in another variable 
+average can be calculated without having to know all the details of all the books
